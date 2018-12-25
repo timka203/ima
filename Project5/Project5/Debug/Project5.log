@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project5\project5\source.cpp(25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\тимур\source\repos\project5\project5\source.cpp(40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\тимур\source\repos\project5\project5\source.cpp(43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\тимур\source\repos\project5\project5\source.cpp(47): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\тимур\source\repos\project5\project5\source.cpp(51): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\тимур\source\repos\project5\project5\source.cpp(75): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Project5.vcxproj -> C:\Users\Тимур\source\repos\Project5\Debug\Project5.exe
